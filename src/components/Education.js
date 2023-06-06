@@ -1,6 +1,6 @@
 function Education() {
     return (
-        <div>
+        <div id="educationSection">
             Education will go here        
         </div>
     )

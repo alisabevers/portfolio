@@ -1,0 +1,4 @@
+#myName {
+    padding: 30vb;
+    font-size: clamp(4rem, 20vw + 1rem, 8rem)
+}

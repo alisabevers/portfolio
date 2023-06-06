@@ -1,6 +1,6 @@
 function Projects() {
     return (
-        <div>
+        <div id="projectSection">
             Projects will go here        
         </div>
     )

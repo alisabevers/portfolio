@@ -1,6 +1,6 @@
 function AboutMe() {
     return (
-        <div>
+        <div id="aboutMeSection">
             hi i'm working! The About Me section will go here
         </div>
     )
