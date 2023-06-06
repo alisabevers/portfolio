@@ -1,4 +1,4 @@
-function Home() {
+function Navbar() {
     return (
         <div>
             <nav>
@@ -8,4 +8,4 @@ function Home() {
     )
 }
 
-export default Home;
+export default Navbar;
