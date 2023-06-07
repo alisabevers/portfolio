@@ -2,7 +2,16 @@ function Skills() {
     return (
         <div id="skillSection">
             <h1 id="skillsHeader">Skills</h1>
-            Skills will go here        
+            <ul id="skillsList">
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>React</li>
+                <li>MongoDB</li>
+                <li>MySQL</li>
+                <li>GraphQL</li>
+                <li>MERN stack</li>
+            </ul>     
         </div>
     )
 }
