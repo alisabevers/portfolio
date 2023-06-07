@@ -62,6 +62,11 @@
   padding: 4rem;
 }
 
+#contactCard {
+  padding: 2rem;
+  margin: 0 8rem;
+}
+
 #lets-connect-text {
   font-size: 4rem;
   font-family: Trebuchet MS, sans-serif;
