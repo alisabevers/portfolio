@@ -4,7 +4,7 @@
   --bg-nav: #FFDCCF;
   --container-padding: 1rem;
   --container-header: 2rem;
-  --card-side-margins: 0 12rem;
+  --card-side-margins: 0 8rem;
 }
 
 /* navbar */
@@ -21,6 +21,20 @@
 
 #aboutHeader {
   font-size: var(--container-header);
+}
+
+#aboutContainer {
+  padding: var(--container-padding);
+  margin: var(--card-side-margins)
+}
+
+.aboutBody {
+  text-align: left;
+}
+
+#aboutBodyText {
+  padding-top: 3rem;
+  font-size: 1.5rem;
 }
 
 

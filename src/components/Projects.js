@@ -4,6 +4,7 @@ function Projects() {
     return (
         <div id="projectSection">
             <h1 id="projectsHeader">Projects</h1>
+
             <div class="card projectsCard">
                 <div class="row justify-content-md-center">
                     <div class="col projectImages">
@@ -19,6 +20,7 @@ function Projects() {
                     </div>
                 </div>
             </div>
+
             <div class="card projectsCard">
                 <div class="row justify-content-md-center">
                     <div class="col projectImages">
@@ -34,6 +36,7 @@ function Projects() {
                     </div>
                 </div>
             </div>
+
             <div class="card projectsCard">
                 <div class="row justify-content-md-center">
                     <div class="col projectImages">
@@ -49,6 +52,7 @@ function Projects() {
                     </div>
                 </div>
             </div>
+            
         </div>
     )
 }
