@@ -1,7 +1,13 @@
-#myName {
-    padding: 15rem;
-    font-size: 8rem;
-    color: white;
+#backgroundImg {
     background-image: url(../../Assets/background.jpeg);
     background-size: cover;
+    height: 100vh;
+}
+
+#myName {
+    font-family: Trebuchet MS, sans-serif;
+    font-weight: bold;
+    font-size: 8rem;
+    color: white;
+    padding-top: 18rem;
 }   

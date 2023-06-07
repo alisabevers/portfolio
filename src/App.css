@@ -1,10 +1,11 @@
 :root {
-  --bg-dark: #EBEBEB;
+  --bg-dark: #FBF1ED;
   --bg-light: #F9F9F9;
+  --bg-nav: #FFDCCF;
 }
 
 #nav {
-  background-color: var(--bg-light);
+  background-color: var(--bg-nav);
 }
 
 #aboutMeSection {
@@ -28,7 +29,7 @@
 }
 
 #footer {
-  background-color: var(--bg-dark);
+  background-color: var(--bg-nav);
 }
 
 .App {

@@ -1,9 +1,9 @@
-import './Welcome.css'
+import './Welcome.css';
 import Navbar from './Navbar';
 
 function Home() {
     return (
-        <div>
+        <div id="backgroundImg">
             <Navbar />
             <h1 id="myName">
                 ALISA BEVERS
