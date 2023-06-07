@@ -4,6 +4,7 @@
   --bg-nav: #FFDCCF;
   --container-padding: 1rem;
   --container-header: 2rem;
+  --card-side-margins: 0 8rem;
 }
 
 /* navbar */
@@ -44,6 +45,10 @@
   font-size: var(--container-header);
 }
 
+.projectsCard {
+  margin: 1rem 15rem;
+}
+
 
 /* Skills container */
 #skillSection {
@@ -78,7 +83,7 @@
 
 #contactCard {
   padding: 2rem;
-  margin: 0 8rem;
+  margin: var(--card-side-margins);
 }
 
 #lets-connect-text {
