@@ -2,35 +2,81 @@
   --bg-dark: #FBF1ED;
   --bg-light: #F9F9F9;
   --bg-nav: #FFDCCF;
+  --container-padding: 1rem;
+  --container-header: 2rem;
 }
 
+/* navbar */
 #nav {
   background-color: var(--bg-nav);
 }
 
+
+/* About container */
 #aboutMeSection {
   background-color: var(--bg-light);
+  padding: var(--container-padding);
 }
 
+#aboutHeader {
+  font-size: var(--container-header);
+}
+
+
+/* Education container */
 #educationSection {
   background-color: var(--bg-dark);
+  padding: var(--container-padding);
 }
 
+#educationHeader {
+  font-size: var(--container-header);
+}
+
+
+/* Projects Container */
 #projectSection {
   background-color: var(--bg-light);
+  padding: var(--container-padding);
 }
 
+#projectsHeader {
+  font-size: var(--container-header);
+}
+
+
+/* Skills container */
 #skillSection {
-  background-color: var(--bg-dark);
+  background-color: var(--bg-dark); 
+  padding: var(--container-padding);
 }
 
+#skillsHeader {
+  font-size: var(--container-header);
+}
+
+
+/* Contact container = Let's Connect! */
 #contact {
   background-color: var(--bg-light);
+  padding: 4rem;
 }
 
+#lets-connect-text {
+  font-size: 4rem;
+  font-family: Trebuchet MS, sans-serif;
+  padding: 1rem;
+}
+
+.contact-list {
+  font-size: 1.25rem;
+}
+
+
+/* Footer */
 #footer {
   background-color: var(--bg-nav);
-  padding: 1vb;
+  padding: var(--container-padding);
 }
 
 .App {
