@@ -9,7 +9,7 @@ function Projects() {
                     <div class="col projectImages">
                         <img src={projectImg1} class="img-fluid rounded-start" alt="placeholder image for project 1" />
                     </div>
-                    <div class="col-8">
+                    <div class="col-9">
                         <div class="card-body">
                             <h5 class="card-title">Project title</h5>
                             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -24,7 +24,7 @@ function Projects() {
                     <div class="col projectImages">
                         <img src={projectImg1} class="img-fluid rounded-start" alt="placeholder image for project 1" />
                     </div>
-                    <div class="col-8">
+                    <div class="col-9">
                         <div class="card-body">
                             <h5 class="card-title">Project title</h5>
                             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -39,7 +39,7 @@ function Projects() {
                     <div class="col projectImages">
                         <img src={projectImg1} class="img-fluid rounded-start" alt="placeholder image for project 1" />
                     </div>
-                    <div class="col-8">
+                    <div class="col-9">
                         <div class="card-body">
                             <h5 class="card-title">Project title</h5>
                             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>

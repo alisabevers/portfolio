@@ -4,7 +4,7 @@
   --bg-nav: #FFDCCF;
   --container-padding: 1rem;
   --container-header: 2rem;
-  --card-side-margins: 0 8rem;
+  --card-side-margins: 0 12rem;
 }
 
 /* navbar */
@@ -46,7 +46,7 @@
 }
 
 .projectsCard {
-  margin: 1rem 15rem;
+  margin: 1rem 30vb;
 }
 
 
