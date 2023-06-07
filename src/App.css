@@ -34,6 +34,24 @@
   font-size: var(--container-header);
 }
 
+.educationCard {
+  margin: 1rem 50vb;
+  text-align: left;
+}
+
+#magnaCumLaude {
+  font-style: italic;
+}
+
+#educationAwardList {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.education-description {
+  color: gray;
+}
+
 
 /* Projects Container */
 #projectSection {
@@ -47,6 +65,10 @@
 
 .projectsCard {
   margin: 1rem 30vb;
+}
+
+.projectCardBody {
+  text-align: left;
 }
 
 
