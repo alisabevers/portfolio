@@ -5,6 +5,7 @@ function Skills() {
             <ul id="skillsList">
                 <li>HTML</li>
                 <li>CSS</li>
+                <li>Bootstrap</li>
                 <li>JavaScript</li>
                 <li>React</li>
                 <li>MongoDB</li>

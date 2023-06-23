@@ -3,7 +3,7 @@ function Education() {
         <div id="educationSection">
             <h1 id="educationHeader">Education</h1>
 
-            <div class="card educationCard">
+            <div class="card educationCard col-6 mx-auto">
                 <div class="card-body">
                     <div class="row">
                         <h4 class="card-title col">Georgia Institute of Technology</h4>
@@ -15,7 +15,7 @@ function Education() {
                 </div>
             </div>
 
-            <div class="card educationCard">
+            <div class="card educationCard col-6 mx-auto">
                 <div class="card-body">
                     <div class="row">
                         <h4 class="card-title col">Georgia State University</h4>

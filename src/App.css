@@ -4,7 +4,6 @@
   --bg-nav: #FFDCCF;
   --container-padding: 1rem;
   --container-header: 2rem;
-  --card-side-margins: 0 8rem;
 }
 
 /* navbar */
@@ -25,7 +24,6 @@
 
 #aboutContainer {
   padding: var(--container-padding);
-  margin: var(--card-side-margins)
 }
 
 .aboutBody {
@@ -49,7 +47,7 @@
 }
 
 .educationCard {
-  margin: 1rem 50vb;
+  margin: 1rem;
   text-align: left;
 }
 
@@ -78,11 +76,18 @@
 }
 
 .projectsCard {
-  margin: 1rem 30vb;
+  margin: 1rem;
 }
 
 .projectCardBody {
   text-align: left;
+}
+
+.projectImages {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: .5rem;
 }
 
 
@@ -119,7 +124,6 @@
 
 #contactCard {
   padding: 2rem;
-  margin: var(--card-side-margins);
 }
 
 #lets-connect-text {

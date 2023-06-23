@@ -1,7 +1,7 @@
 function Contact() {
     return (
         <div id="contact">
-            <div class="card" id="contactCard">
+            <div class="card col-9 mx-auto" id="contactCard">
                 <h1 id="lets-connect-text">Let's Connect!</h1> 
                 <div class="container text-center col-6">
                     <div class="row">
