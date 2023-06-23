@@ -51,11 +51,11 @@
   text-align: left;
 }
 
-#magnaCumLaude {
+.italic {
   font-style: italic;
 }
 
-#educationAwardList {
+.educationAwardList {
   list-style-type: none;
   padding-left: 0;
 }
@@ -88,6 +88,14 @@
   justify-content: center;
   align-items: center;
   padding: .5rem;
+}
+
+#note-taker-icon {
+  font-size: 130px;
+}
+
+.projectLinks {
+  margin-right: 2rem;
 }
 
 

@@ -11,7 +11,10 @@ function Education() {
                     </div>
                     <h5 class="certification">Certification of Full-Stack Web Development</h5>
                     <h6 class="card-subtitle mb-2 text-body-secondary">Atlanta, Georgia</h6>
-                    <p class="education-description">A 12-week intensive program focused on gaining skills in full-stack web development</p>
+                    <ul class="educationAwardList education-description">
+                        <li class="italic">Final Grade 94.79%</li>
+                        <li>A 12-week intensive program focused on gaining skills in full-stack web development</li>
+                    </ul>
                 </div>
             </div>
 
@@ -23,8 +26,8 @@ function Education() {
                     </div>
                     <h5 class="certification">Bachelor of Science in Psychology, Minor in Marketing</h5>
                     <h6 class="card-subtitle mb-2 text-body-secondary">Atlanta, Georgia</h6>
-                    <ul id="educationAwardList" class="education-description">
-                        <li id="magnaCumLaude">magna cum laude (GPA 3.72)</li>
+                    <ul class="educationAwardList education-description">
+                        <li class="italic">magna cum laude (GPA 3.72)</li>
                         <li>President's List - 2019</li>
                         <li>Dean's List - 2017, 2018, 2019</li>
                         <li>Hope Scholarship - 2016, 2017, 2018, 2019, 2020</li>
