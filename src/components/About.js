@@ -1,4 +1,4 @@
-import projectImg1 from '../Assets/PlaceholderProfile.jpeg'
+import projectImg1 from '../Assets/PlaceholderProfile.jpeg';
 
 function AboutMe() {
     return (

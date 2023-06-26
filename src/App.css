@@ -9,6 +9,18 @@
 /* navbar */
 #nav {
   background-color: var(--bg-nav);
+  padding: var(--container-padding);
+}
+
+.nav-item {
+  padding-left: 2rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.nav-item a {
+  color: gray;
+  text-decoration: none;
 }
 
 

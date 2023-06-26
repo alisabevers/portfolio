@@ -5,19 +5,19 @@ function Navbar() {
                 <div class="container-fluid">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="#">About Me</a>
+                            <a href="#aboutMeSection">About Me</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Education</a>
+                            <a href="#educationSection">Education</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Projects</a>
+                            <a href="#projectSection">Projects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Skills</a>
+                            <a href="#skillSection">Skills</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Contact</a>
+                            <a href="#contact">Contact</a>
                         </li>
                     </ul>
                 </div>
